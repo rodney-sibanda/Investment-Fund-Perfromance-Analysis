@@ -1,4 +1,4 @@
-# Investment-Fund-Performance
+# Investment Fund Performance Analysis - [Dashboard](https://public.tableau.com/app/profile/rodney.sibanda6042/viz/PortfolioPerformanceDashboard_17657712163260/Dashboard1?publish=yes)
 
 ## Evaluating Risk-Adjusted Returns in a Conservative Client Portfolio
 
@@ -16,7 +16,7 @@ Rather than relying on a single performance metric, the project evaluates return
 ### Total Returns – Top Gainers (6-Month Period)
 <img width="1852" height="399" alt="image" src="https://github.com/user-attachments/assets/4395d91f-0729-4416-b45d-b1ff62ed3e6a" />
 
-Link to Dashboard: https://public.tableau.com/app/profile/rodney.sibanda6042/viz/PortfolioPerformanceDashboard_17657712163260/Dashboard1?publish=yes
+
 
 ## Key Insights & Portfolio Implications
 
