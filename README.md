@@ -2,7 +2,7 @@
 
 ## Evaluating Risk-Adjusted Returns in a Conservative Client Portfolio
 
-This project analyzes the performance of a hypothetical conservative-to-moderate investment portfolio, designed to reflect how a real client’s assets might be allocated across diversified exchange-traded funds (ETFs). The goal of the analysis is to evaluate how different asset mixes perform in terms of returns, volatility, and risk-adjusted performance, rather than focusing on returns alone.
+This project analyzes the performance of a conservative-to-moderate investment portfolio, designed to reflect how a real client’s assets might be allocated across diversified exchange-traded funds (ETFs). The goal of the analysis is to evaluate how different asset mixes perform in terms of returns, volatility, and risk-adjusted performance, rather than focusing on returns alone.
 
 The portfolio includes a blend of equity-focused and balanced funds — XEC, XBAL, VEQ, and XEF — chosen to represent varying levels of geographic exposure, asset diversification, and risk tolerance. By examining these funds together, the analysis mirrors the type of evaluation an investment analyst or advisor might conduct when assessing portfolio suitability for a risk-averse client seeking steady growth.
 
